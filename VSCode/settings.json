@@ -1,0 +1,17 @@
+{
+    //Global
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "window.zoomLevel": -1,
+    //Format on saving/pasting
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    //Explorer area
+    "explorer.sortOrder": "type",
+    //Common working area
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.minimap.enabled": false,
+    "editor.cursorStyle": "block"
+}
