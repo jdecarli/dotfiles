@@ -30,10 +30,10 @@ set smartindent
 set nobackup " no backup
 set nowb " no backup - no writebackup
 set noswapfile " no backup - swapfile
-set omnifunc=syntaxcomplete#Complete
 set guifont=Consolas:h10:cANSI
 set wildmenu
 set wildmode=longest:full,full
+" set omnifunc=syntaxcomplete#Complete
 " let g:OmniSharp_server_stdio = 1
 
 " NERDTree settings ---------------
