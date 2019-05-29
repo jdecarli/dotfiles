@@ -13,5 +13,6 @@
     //Common working area
     "workbench.editor.highlightModifiedTabs": true,
     "editor.minimap.enabled": false,
-    "editor.cursorStyle": "block"
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth"
 }
