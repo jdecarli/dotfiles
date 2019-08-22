@@ -16,5 +16,6 @@ call code --install-extension mauve.terraform
 ::call code --install-extension marcostazi.VS-code-vagrantfile
 :: Usability
 call code --install-extension stuart.unique-window-colors
+call code --install-extension yzhang.markdown-all-in-one
 echo.
 echo done
